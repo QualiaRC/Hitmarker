@@ -1,5 +1,5 @@
 # Hitmarker
-[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
+<a href="#"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg" alt="Latest version"></a>
 
 ## About
 A simple Java application using JavaFX and [JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook repo") to turn your user input into hitmarkers. Every mouse click or keypress will display the hitmarker image at the location of your cursor, and play the hitmarker sound.
